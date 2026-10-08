@@ -1,6 +1,6 @@
 [app]
-title = LORDZICO SMS.
-package.name = lordzicosms.
+title = LORDZICO SMS
+package.name = lordzicosms
 package.domain = org.lordzico
 source.dir = .
 source.include_exts = py,png
